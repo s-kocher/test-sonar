@@ -16,6 +16,8 @@
     <properties>
         <java.version>11</java.version>
         <sonar.projectKey>test-sonar</sonar.projectKey>
+        <sonar.organization>s-kocher</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <!--
         <sonar.host.url>http://localhost:9000</sonar.host.url>
         <sonar.login></sonar.login>
